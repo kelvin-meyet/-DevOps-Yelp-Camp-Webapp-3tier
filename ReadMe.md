@@ -32,6 +32,6 @@ docker compose up
 
 ## Complete Application Shots
 
-![](/images/home.jpg)
-![](/images/campgrounds.jpg)
+![](./Images/home.jpg)
+![](./Images/campgrounds.jpg)
 ![](./Images/register.jpg)
