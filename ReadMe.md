@@ -25,11 +25,13 @@ SECRET=[Your Chosen Secret Key] # This can be any value you prefer
 ```
 
 After configuring the .env file, you can start the project by running:
+
 ```sh
 docker compose up
 ```
 
 ## Complete Application Shots
+
 ![](/images/home.jpg)
 ![](/images/campgrounds.jpg)
-![](./images/register.jpg)
+![](./Images/register.jpg)
