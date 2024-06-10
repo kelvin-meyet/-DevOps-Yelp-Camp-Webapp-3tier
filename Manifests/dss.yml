@@ -32,7 +32,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: adijaiswal/campa:latest
+          image: kelvinmeyet/campa:latestkel
           ports:
             - containerPort: 3000
           env:
@@ -87,6 +87,6 @@ spec:
     app: yelp-camp
   ports:
     - protocol: TCP
-      port: 3000
+      port: 3002
       targetPort: 3000
   type: LoadBalancer
